@@ -1,0 +1,44 @@
+#introduction{
+    color: bisque;
+    background-color: antiquewhite;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-favourite-color{
+    color: white;
+    background-color: red;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-hair-color{
+    color:pink;
+    background-color: antiquewhite;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-eye-color{
+    color: aqua;
+    background-color: beige;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-favourite-food{
+    color: orange;
+    background-color: azure;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+section{
+    background-color:blue ;
+    padding: 15px;
+}
