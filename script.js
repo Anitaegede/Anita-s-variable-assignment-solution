@@ -5,7 +5,7 @@ let fullname= firstname+" "+lastname
 let introduction ="Hello, my name is Anita Egede"
 let myEyesColor="brown"
 let myHairColor="black"
-let myNumberOfSiblings="2 "
+let myNumberOfSiblings="two"
 let myFavouriteFood="jollof rice"
 let myFavouriteColor=" yellow"
 
