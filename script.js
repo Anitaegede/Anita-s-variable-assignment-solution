@@ -1,8 +1,8 @@
 // Add your code here
 let firstname="Anita" 
 let lastname= "Egede"
-let fullname=firstname=" "+lastname
-let introduction ="Hello ,my name is Anita Egede"
+let fullname= firstname+" "+lastname
+let introduction ="Hello, my name is Anita Egede"
 let myEyesColor="brown"
 let myHairColor="black"
 let myNumberOfSiblings="2 "
